@@ -14,6 +14,11 @@ The Bamazon Customer App allows users to view the current items available for pu
 * prompt
 * cli-table
 
+## Mysql Database
+### Example:
+![GitHub Logo](/images/database.png)
+
+
 ## Product Search
 ### Example:
 ![GitHub Logo](/images/table.png)
